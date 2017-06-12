@@ -1,7 +1,7 @@
 # patchmatch
 Python implementation of a customized version of generalized Patchmatch
 (see the paper: Barnes C., Shechtman E., Goldman D.B., Finkelstein A. (2010) The Generalized PatchMatch Correspondence Algorithm.)
-This version is "generalized" only in the sense it looks for approximated k nearest neighbours of a given patch, instead of only looking for *the* approximated nearest neighbour (like in Barnes, C., Shechtman, E., Finkelstein, A., & Goldman, D. (2009). PatchMatch: A randomized correspondence algorithm for structural image editing. ACM Transactions on Graphics-TOG, 28(3), 24.).
+Our version is "generalized" only in the sense it looks for approximated k nearest neighbours of a given patch, instead of only looking for *the* approximated nearest neighbour (like in Barnes, C., Shechtman, E., Finkelstein, A., & Goldman, D. (2009). PatchMatch: A randomized correspondence algorithm for structural image editing. ACM Transactions on Graphics-TOG, 28(3), 24.).
 
 The implementation of the algorithm is in file patchmatch_code.py, and a test script is provided by test.py.
 
